@@ -26,6 +26,6 @@ This project develops a Retrieval-Augmented Generation (RAG) system using the Ll
 - Implementing incremental updates for new or modified documents.
 
 ## System Design Flowchart
-![System Design Flowchart](path_to_flowchart_image)
+![System Design Flowchart](https://github.com/SSP972/RAG_system_with_gemini/blob/main/rag.png)e)
 
 
