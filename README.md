@@ -1,7 +1,7 @@
 # Retrieval-Augmented Generation System for Insurance Policy Chatbot
 
 ## Project Overview
-This project develops a Retrieval-Augmented Generation (RAG) system using the LlamaIndex or LangChain framework to create a chatbot capable of answering questions about insurance policy documents. The system aims to improve accessibility and understanding of insurance policies by providing accurate and relevant responses to user queries.
+This project develops a Retrieval-Augmented Generation (RAG) system using the LangChain framework to create a chatbot capable of answering questions about insurance policy documents. The system aims to improve accessibility and understanding of insurance policies by providing accurate and relevant responses to user queries.
 
 ## Project Goals
 - Develop a chatbot to assist users in understanding insurance policies.
